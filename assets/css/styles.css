@@ -492,13 +492,13 @@ button {
   padding: 1rem .75rem;
 }
 
-.value__accordian-header{
+.value__accordion-header{
   display: flex;
   align-items: center;
   cursor: pointer;
 }
 
-.value__accordian-icon{
+.value__accordion-icon{
   background-color: var(--first-color-lighten);
   padding: 5px;
   border-radius: .25rem;
