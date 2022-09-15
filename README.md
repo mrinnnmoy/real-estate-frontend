@@ -12,7 +12,7 @@ Responsive Real Estate Website
 <br>
 <h1> Preview Image 🖼 </h1>
 
-![preview img](/)
+![preview img](/project-webview.png)
 <br>
 
 ## 🖧 Deployed Using
