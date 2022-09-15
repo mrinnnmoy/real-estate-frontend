@@ -1238,4 +1238,15 @@ body.dark-theme{
   }
 }
 
+@media screen and (min-width: 1040px) {
+  .container{
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .home__container{
+    column-gap: 4rem;
+  }
+}
+
 /* For 2K & 4K resolutions */
