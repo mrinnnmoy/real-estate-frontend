@@ -1250,3 +1250,14 @@ body.dark-theme{
 }
 
 /* For 2K & 4K resolutions */
+@media screen and (min-width: 2048px) {
+  body{
+    zoom: 1.5;
+  }
+}
+
+@media screen and (min-width: 3840px) {
+  body{
+    zoom: 2;
+  }
+}
