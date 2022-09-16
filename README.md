@@ -1,6 +1,3 @@
-# real-estate-frontend
-Responsive Real Estate Website
-
 # 💼 Responsive Real-estate Website
 
 - Responsive real-estate website Using HTML CSS & JavaScript
